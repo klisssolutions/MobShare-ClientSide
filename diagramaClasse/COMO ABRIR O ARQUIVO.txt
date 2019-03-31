@@ -1,0 +1,3 @@
+Para abrir os arquivos XML:
+- Entrar no site: https://www.draw.io/
+- Abrir o arquivo direto do device.
