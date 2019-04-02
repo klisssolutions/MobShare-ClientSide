@@ -174,6 +174,11 @@ footer{
     cursor: pointer;
 }
 
+a:link 
+{ 
+text-decoration:none; 
+}
+
 .menu-rodape-item a:hover{
     transition: 2s;
     color: #5e85e1;
